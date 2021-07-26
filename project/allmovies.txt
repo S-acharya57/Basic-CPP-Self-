@@ -1,0 +1,84 @@
+ACTION
+
+1 The Dark Knight
+
+2 KGF
+
+3 War
+
+4 Wrath of Man
+
+5 Black Widow.
+
+
+
+
+
+COMEDY
+
+1 Good on Paper
+
+2 PK
+
+3 Cruella
+
+4 Munna Bhai MBBS
+
+5 Hera Pheri.
+
+
+
+
+
+DRAMA
+
+1 Fatherhood
+
+2 The Shawshank Redemption
+
+3 Schindler's List
+
+4 The Godfather
+
+5 Soorarai Pottru.
+
+
+
+
+
+
+
+HORROR
+
+1 Insidious
+
+2 Annabelle
+
+3 The Lighthouse
+
+4 Midsommar
+
+5 The Conjuring.
+
+
+
+
+
+SCI-FICTION
+
+1 Avengers: Infinity War
+
+2 Interstellar
+
+3 Godzilla vs. Kong
+
+4 A Quiet Place
+
+5 The Tomorrow War.
+
+
+
+
+
+
+

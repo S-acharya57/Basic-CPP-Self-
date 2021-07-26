@@ -1,0 +1,84 @@
+ACTION
+
+
+
+
+
+1 The Family Man
+
+2 Money Heist
+
+3 Game of Thrones
+
+4 Black Summer
+
+5 Sweet Tooth.
+
+
+
+
+
+
+
+ADVENTURE
+
+1 Blue Gender
+
+2 7Seeds
+
+3 House of Anubis
+
+4 From Now
+
+5 Berserk.
+
+
+
+
+
+HORROR
+
+1 The Originals
+
+2 Fear the Walking Dead
+
+3 The Vampire Diaries
+
+4 Supernatural
+
+5 Stranger Things.
+
+
+
+
+
+SCI-FICTION
+
+1 For All Mankind
+
+2 See
+
+3 War of the Worlds
+
+4 The 100
+
+5 Westworld.
+
+
+
+
+
+THRILLER
+
+1 Elite
+
+2 Behind the Eyes
+
+3 The Walking Dead
+
+4 The Handmaid's Tale
+
+5 Breaking Bad.
+
+
+
